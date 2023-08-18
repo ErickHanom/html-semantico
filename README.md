@@ -27,8 +27,7 @@ Teste do *itálico*
 
 ![Eddie](https://pipz.com/static/images/blog/eddie.png) ![Eddie](https://pipz.com/static/images/blog/eddie.png) ![Eddie](https://pipz.com/static/images/blog/eddie.png)
 
-> Não Faltem! 
-> (João Marcos)
+
 
 
 Método `console.lo()` no javascript <br>
