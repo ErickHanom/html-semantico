@@ -16,7 +16,6 @@ Teste do *itálico*
 * Shoyu
 
 - Banana
-- Maçã
 - Abacaxi
 
 1. Caneta
