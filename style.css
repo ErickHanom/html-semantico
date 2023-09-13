@@ -55,14 +55,34 @@ p {
     line-height: 1.2;
 }
 
-.paragrafo-de-artigo{
+.paragrafo-de-artigo {
     background-color: var(--cor-quaternaria);
-    padding: 20px 20px 10px 20px;
+    padding: 1px;
 }
 
-article {
+.paragrafo-de-artigo + .paragrafo-de-artigo{
+    padding-top: 0;
+}
+
+header {
     border: 8px solid var(--cor-quaternaria);
     padding: 30px; 
-    margin: 30px 0;
+    margin: 30px ;
     border-radius: 20px 0 20px 0;
+}
+
+.link-de-menu-principal {
+    text-decoration: overline;
+}
+
+.menu-principal ul {
+    background-color: var(--cor-secundaria);
+}
+
+.menu-principal li {
+    color: var(--cor-fundo);
+}
+
+.menu-principal a {
+    color: var(--cor-quaternaria);
 }
